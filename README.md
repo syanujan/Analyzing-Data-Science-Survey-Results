@@ -10,4 +10,6 @@ These included:
 - A bar chart showing average salary by Job Title
 - Info Card showing the number of survey respondants
 - Info card showing the average age of the respondants
-- A map showing where the survey respondants are located/working around the world 
+- A map showing where the survey respondants are located/working around the world
+
+The dataset used to create this visualization is in the data sub-folder of this repository. The visualization file can be downloaded and viewed.
