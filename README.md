@@ -5,9 +5,9 @@ I focused in on the Salary, Job Title, Ethnicity, Age, and the Survey Taker's Fa
 
 After these columns were transformed, I had created the various visualizations.
 These included:
-- Pie Graph representing the proportions of different ethnicities employed in the field.
-- A stacked bar chart to represent favourite programming language, arranged by the role the respondant is working in.
+- Pie Graph representing the proportions of different ethnicities employed in the field
+- A stacked bar chart to represent favourite programming language, arranged by the respondant's job title
 - A bar chart showing average salary by Job Title
-- Info Cards showing the number of survey respondants
+- Info Card showing the number of survey respondants
 - Info card showing the average age of the respondants
 - A map showing where the survey respondants are located/working around the world 
